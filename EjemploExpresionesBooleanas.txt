@@ -1,0 +1,6 @@
+menor que	            <
+mayor que	            >
+igual a	                ==
+no igual a	            !=
+menor o igual a	        <=
+mayor o igual a	        >=

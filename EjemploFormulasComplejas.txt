@@ -1,0 +1,2 @@
+factorial = 9 * (2 + suma)
+resultado = (multiplicacion - 5) / 2

@@ -1,0 +1,5 @@
+suma = 2 + 4
+resta = 2 - 4
+cont = cont + 1
+multiplicacion = 3 * 5
+division =  7 / 2

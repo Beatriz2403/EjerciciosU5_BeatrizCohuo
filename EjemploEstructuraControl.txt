@@ -1,0 +1,25 @@
+if semaforo == verde: 
+    print "Cruzar la calle"
+else: 
+    print "Esperar"
+
+if compra <= 100: 
+    print "Pago en efectivo" 
+elif compra > 100 and compra < 300: 
+    print "Pago con tarjeta de débito" 
+else: 
+    print "Pago con tarjeta de crédito"
+
+if total_compra > 100: 
+    tasa_descuento = 10 
+    importe_descuento = total_compra * tasa_descuento / 100 
+    importe_a_pagar = total_compra – importe_descuento
+
+while anio <= 2012: 
+    print "Informes del Año", str(anio) 
+    anio += 1
+
+while True:
+    nombre = raw_input("Indique su nombre: ")
+    if nombre:
+        break
